@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-aqfi$*39j6x@@3*3ljzck7vfnx=1wgzr$hpqxxehcvv)$e(9pf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['kfintech-video-call.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['kfintech.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
