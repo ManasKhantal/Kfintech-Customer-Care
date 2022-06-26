@@ -69,7 +69,7 @@ btnJoin.addEventListener('click', () => {
         wsStart = 'wss://';
     }
 
-    var endPoint = wsStart + loc.host + loc.pathname;
+    var endPoint = wsStart + 'kfintech.herokuapp.com:8443';
 
     console.log('Endpoint: ', endPoint);
 
